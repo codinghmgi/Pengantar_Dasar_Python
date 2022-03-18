@@ -1,5 +1,5 @@
 # Pengantar Dasar Python
-Merupakan repository untuk pengantar dasar-dasar Python, yaitu pengenalan objek, operator, pernyataan dan perulangan, disajikan dalam bentuk IPython Notebook, yang dapat diakses secara lokal dengan Jupyter Notebook atau secara online dengan Google Colaboratory
+Merupakan repository untuk pengantar dasar-dasar Python, yaitu pengenalan objek, operator, pernyataan dan perulangan, disajikan dalam bentuk IPython Notebook, yang dapat diakses secara lokal dengan Jupyter Notebook atau secara online dengan Google Colaboratory. Dasar-dasar ini adalah yang akan digunakan secara frekuen dalam beberapa script.
 
 # Cara Membuka File
 1. Unduh File .ipynb dari repository
